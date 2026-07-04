@@ -12,13 +12,13 @@ const ROLES = [
     title: "Head, Project Management Unit",
     org: "StartupTN — Periyar Social Justice Venture Lab",
     type: "Government Ecosystem Development",
-    since: "Current"
+    since: "2025–2026"
   },
   {
     title: "Governing Council Member",
     org: "TiE Chennai",
     type: "Entrepreneurship Ecosystem Leadership",
-    since: "Current"
+    since: "2014–2019"
   },
   {
     title: "Chief Operating Officer",
