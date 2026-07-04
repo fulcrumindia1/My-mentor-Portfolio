@@ -4,10 +4,10 @@ import { motion, useInView } from "framer-motion";
 const ACHIEVEMENTS = [
   {
     num: "01",
-    title: "National Telemedicine Initiative",
+    title: "National Telecardiology Initiative",
     challenge: "Scaling specialized cardiac care to remote regions lacking cardiologists, across economically diverse populations in three countries.",
-    response: "Built a cardiac telemedicine platform enabling small hospitals to transmit ECGs digitally to a virtual committee of five cardiologists, who provide a majority opinion in real time.",
-    outcome: "Deployed across India, Tanzania, and Malawi. Included in the Prime Minister's national telemedicine initiative. Trained 500,000 doctors nationally.",
+    response: "Built a telecardiology platform enabling small hospitals to transmit ECGs digitally to a virtual committee of five cardiologists, who provide a majority opinion in real time.",
+    outcome: "Deployed across India, Tanzania, and Malawi. Included in the Prime Minister's national telecardiology initiative. Trained 500,000 doctors nationally.",
     lesson: "Public health transformation requires technology simple enough for resource-constrained environments.",
     metrics: [
       { value: "3", label: "Countries Deployed" },

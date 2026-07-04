@@ -17,8 +17,8 @@ const CONTRIBUTIONS = [
   },
   {
     icon: Heart,
-    title: "National Telemedicine Initiative",
-    desc: "Contributed to the Prime Minister's national telemedicine program, enabling cardiac consultation access for underserved populations across India, Tanzania, and Malawi.",
+    title: "National Telecardiology Initiative",
+    desc: "Contributed to the Prime Minister's national telecardiology program, enabling cardiac consultation access for underserved populations across India, Tanzania, and Malawi.",
     tag: "Healthcare",
   },
   {

@@ -9,7 +9,7 @@ const LOCATIONS = [
     id: "india",
     name: "India",
     coordinates: [78.9629, 20.5937] as [number, number],
-    highlights: ["StartupTN — Head, Project Management Unit", "TiE Chennai Governing Council — 10,000+ entrepreneurs", "BIS Chairman — Informatics AYUSH", "Hospital CEO — 2,100-bed facility", "National Telemedicine Initiative", "HIMSS India Board Member"],
+    highlights: ["StartupTN — Head, Project Management Unit", "TiE Chennai Governing Council — 10,000+ entrepreneurs", "BIS Chairman — Informatics AYUSH", "Hospital CEO — 2,100-bed facility", "National Telecardiology Initiative", "HIMSS India Board Member"],
     tag: "Ecosystem & Systems"
   },
   {
@@ -37,14 +37,14 @@ const LOCATIONS = [
     id: "tanzania",
     name: "Tanzania",
     coordinates: [34.8888, -6.3690] as [number, number],
-    highlights: ["Cardiac telemedicine platform deployment", "Founder — Cardiac Advisory Company", "ECG-to-cardiologist digital transmission", "Rural hospital network support"],
+    highlights: ["Telecardiology platform deployment", "Founder — Cardiac Advisory Company", "ECG-to-cardiologist digital transmission", "Rural hospital network support"],
     tag: "Public Health"
   },
   {
     id: "malawi",
     name: "Malawi",
     coordinates: [34.3015, -13.2543] as [number, number],
-    highlights: ["Cardiac telemedicine platform deployment", "Founder — Cardiac Advisory Company", "Multi-specialty telemedicine services"],
+    highlights: ["Telecardiology platform deployment", "Founder — Cardiac Advisory Company", "Multi-specialty telecardiology services"],
     tag: "Public Health"
   }
 ];
