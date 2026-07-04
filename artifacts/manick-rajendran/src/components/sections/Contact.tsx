@@ -41,7 +41,7 @@ export function Contact() {
             transition={{ duration: 0.55, delay: 0.2 }}
           >
             <a
-              href="mailto:manick@manick.com"
+              href="mailto:manick@gmail.com"
               className="group flex items-center gap-5 px-7 py-5 bg-card border border-border hover:border-primary/50 hover:shadow-md transition-all duration-200 flex-1"
               data-testid="link-email"
             >
@@ -49,7 +49,7 @@ export function Contact() {
               <div>
                 <p className="text-[10px] font-bold uppercase tracking-widest text-muted-foreground mb-0.5">Email</p>
                 <p className="text-base font-medium text-foreground group-hover:text-primary transition-colors">
-                  manick@manick.com
+                  manick@gmail.com
                 </p>
               </div>
             </a>

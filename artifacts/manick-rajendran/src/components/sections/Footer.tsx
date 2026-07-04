@@ -55,8 +55,8 @@ export function Footer() {
               <li>HIMSS India Board Member</li>
               <li>ISO Delegation Head</li>
             </ul>
-            <a href="mailto:manick@manick.com" className="text-white hover:text-primary transition-colors font-medium border-b border-primary/50 pb-1 text-sm">
-              manick@manick.com
+            <a href="mailto:manick@gmail.com" className="text-white hover:text-primary transition-colors font-medium border-b border-primary/50 pb-1 text-sm">
+              manick@gmail.com
             </a>
           </div>
         </div>
