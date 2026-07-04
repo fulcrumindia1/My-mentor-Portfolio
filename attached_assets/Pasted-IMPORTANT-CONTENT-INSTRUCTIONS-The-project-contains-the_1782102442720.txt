@@ -1,0 +1,231 @@
+IMPORTANT CONTENT INSTRUCTIONS
+
+The project contains the following uploaded assets:
+
+1. Professional photograph of Manick Rajendran (.jfif)
+2. Curriculum Vitae (PDF)
+3. Detailed Resume (DOCX)
+4. LinkedIn experience data
+
+You must thoroughly analyze all uploaded documents before generating the website.
+
+DO NOT use placeholder text.
+
+DO NOT generate fictional achievements.
+
+DO NOT generate generic executive biographies.
+
+All content must be derived from the uploaded documents.
+
+==================================================
+
+PHOTOGRAPH USAGE
+
+The uploaded photograph is the primary personal brand asset.
+
+Use it throughout the website.
+
+Required placements:
+
+* Hero section
+* Executive bio section
+* Contact section
+* Speaking engagements section
+* Leadership section
+
+Image treatment:
+
+* Professional executive style
+* High quality rendering
+* Responsive
+* Subtle image reveal animations
+* Soft shadow
+* Elegant framing
+* No circular avatar crops
+* Use premium rectangular editorial layouts
+
+The image should establish trust, authority and executive presence.
+
+==================================================
+
+CONTENT EXTRACTION REQUIREMENTS
+
+Analyze the uploaded documents and automatically extract:
+
+* Full executive biography
+* Career timeline
+* Professional positions
+* Leadership roles
+* Global experience
+* Board memberships
+* Standards participation
+* Mentorship activities
+* Hospital leadership experience
+* Startup experience
+* Healthcare transformation initiatives
+* Speaking engagements
+* Advisory roles
+* International projects
+
+Build the website from this extracted information.
+
+==================================================
+
+CONTENT PRIORITIZATION
+
+Highest Priority:
+
+Current Roles
+Chief Strategy Officer
+Chief Operating Officer
+Founder
+Board Positions
+
+Second Priority:
+
+Healthcare Leadership
+
+Third Priority:
+
+Global Digital Health
+
+Fourth Priority:
+
+Standards and Policy Contributions
+
+Fifth Priority:
+
+Mentorship and Education
+
+==================================================
+
+EXECUTIVE POSITIONING
+
+The website must position Manick Rajendran as:
+
+Healthcare Transformation Executive
+
+Digital Health Strategist
+
+Hospital Operations Leader
+
+Healthcare Innovator
+
+Global Advisor
+
+Board Member
+
+Founder
+
+Mentor
+
+Healthcare Standards Contributor
+
+NOT merely as:
+
+Consultant
+Coach
+Speaker
+
+==================================================
+
+AI CONTENT RULES
+
+Use uploaded content to create:
+
+* Executive summary
+* Leadership philosophy
+* Career narrative
+* Achievement narratives
+* Impact statements
+* Expertise descriptions
+
+Rewrite and elevate the content into premium executive website copy.
+
+Do not simply copy resume bullet points.
+
+Transform career history into compelling executive storytelling.
+
+==================================================
+
+AUTOMATIC ACHIEVEMENT SECTIONS
+
+Generate sections based on uploaded documents:
+
+Healthcare Transformation
+
+Digital Health Innovation
+
+Telemedicine
+
+Healthcare Interoperability
+
+Hospital Leadership
+
+Healthcare Standards
+
+Board Leadership
+
+Startup Building
+
+International Healthcare Programs
+
+Mentorship & Education
+
+==================================================
+
+CAREER STORY MODE
+
+Do not display jobs as a resume.
+
+Convert the career into a strategic journey:
+
+Technology Leadership
+↓
+Banking Leadership
+↓
+Healthcare Entrepreneurship
+↓
+Hospital Leadership
+↓
+Digital Health Transformation
+↓
+Healthcare Standards
+↓
+Global Strategic Advisory
+
+The website should tell this story visually and narratively.
+
+==================================================
+
+IMAGE & CONTENT OPTIMIZATION
+
+Use lazy loading.
+
+Optimize all images.
+
+Generate SEO metadata from uploaded content.
+
+Generate OpenGraph metadata.
+
+Generate structured schema for:
+
+Person
+Executive
+Consultant
+Healthcare Professional
+Organization Affiliations
+
+==================================================
+
+FINAL TEST
+
+Before completion ask:
+
+Would a hospital board chairman,
+healthcare investor,
+government healthcare official,
+or healthcare CEO trust this individual after viewing the website?
+
+If the answer is not a strong YES,
+continue refining the design and content.

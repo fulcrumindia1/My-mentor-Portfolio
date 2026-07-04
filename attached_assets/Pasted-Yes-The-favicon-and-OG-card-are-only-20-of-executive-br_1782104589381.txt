@@ -1,0 +1,480 @@
+Yes.
+
+The favicon and OG card are only **20% of executive branding**.
+
+For a site that is positioning someone as a former CEO/COO/CSO, BIS Chairman, ISO Delegate, and Healthcare Transformation Leader, there are several "hidden premium details" that most developers forget.
+
+---
+
+# 1. Custom Browser Tab Title
+
+Current:
+
+```text
+Manick Rajendran
+```
+
+Too generic.
+
+Use:
+
+```text
+Manick Rajendran | Healthcare Transformation Leader
+```
+
+For inner pages:
+
+```text
+Experience | Manick Rajendran
+
+Global Impact | Manick Rajendran
+
+Healthcare Standards | Manick Rajendran
+```
+
+---
+
+# 2. Custom Loading Screen
+
+Instead of blank white.
+
+Prompt:
+
+```text
+Create a premium loading experience.
+
+Display:
+
+MR Monogram
+
+Healthcare Transformation Leader
+
+Loading animation:
+Thin progress line
+
+Duration:
+Under 1 second
+
+No spinners.
+No bouncing dots.
+
+Inspired by Apple and McKinsey.
+```
+
+---
+
+# 3. Custom Cursor (Very Subtle)
+
+NOT:
+
+```text
+Fancy cursor
+Glow cursor
+Circle cursor
+```
+
+Instead:
+
+```text
+When hovering cards:
+
+Cursor slightly enlarges.
+
+No visual gimmicks.
+```
+
+---
+
+# 4. Executive Download Pack
+
+This is huge.
+
+Add:
+
+```text
+Download Executive Profile
+```
+
+Generate:
+
+```text
+Executive_Profile_Manick_Rajendran.pdf
+```
+
+Board members often download rather than browse.
+
+---
+
+# 5. Executive Media Kit
+
+Create hidden route:
+
+```text
+/media-kit
+```
+
+Contains:
+
+```text
+Bio
+
+Headshot
+
+Short Biography
+
+Long Biography
+
+Speaking Topics
+
+Contact Information
+
+Logo
+```
+
+Journalists love this.
+
+---
+
+# 6. Structured Data (Very Important)
+
+Tell Replit:
+
+```text
+Add JSON-LD schema.
+
+Person
+
+Executive
+
+Organization
+
+ProfessionalService
+
+LinkedIn Profile
+
+Speaking Engagements
+
+Educational Credentials
+```
+
+Helps Google.
+
+---
+
+# 7. Search Appearance
+
+Google result should look like:
+
+```text
+Manick Rajendran
+
+Healthcare Transformation Leader
+
+35+ years leading healthcare strategy,
+digital health, interoperability,
+hospital operations and healthcare innovation
+across 7 countries.
+```
+
+Not random metadata.
+
+---
+
+# 8. Share Image Per Section
+
+Already mentioned.
+
+Make separate OG cards for:
+
+```text
+About
+
+Experience
+
+Impact
+
+Standards
+
+Mentorship
+
+Speaking
+```
+
+Premium touch.
+
+---
+
+# 9. Executive Timeline PDF
+
+Add:
+
+```text
+Career Timeline
+
+1989 → Present
+```
+
+Interactive.
+
+Exportable.
+
+---
+
+# 10. Leadership Philosophy Section
+
+Currently missing.
+
+Add:
+
+```text
+Leadership Philosophy
+
+Technology must serve care.
+
+Standards must enable innovation.
+
+Transformation must be measurable.
+
+Leadership must outlast the leader.
+```
+
+This creates personality.
+
+---
+
+# 11. Personal Signature
+
+Near footer.
+
+Use scanned signature image.
+
+Like:
+
+```text
+Manick Rajendran
+Healthcare Transformation Leader
+```
+
+Adds trust.
+
+---
+
+# 12. Premium Footer Upgrade
+
+Current footer is good. 
+
+Make it stronger.
+
+Add:
+
+```text
+Executive Summary
+
+Healthcare Strategy
+
+Digital Health
+
+Standards Leadership
+
+Board Advisory
+
+Speaking
+```
+
+instead of generic links.
+
+---
+
+# 13. Remove Replit Branding
+
+Tell Replit:
+
+```text
+Remove all visible Replit branding.
+
+Remove:
+
+Made with Replit
+
+Build for free
+
+Replit watermark
+
+Developer badges
+```
+
+I can see Replit branding in the current version. 
+
+Must go before launch.
+
+---
+
+# 14. LinkedIn Preview Optimization
+
+Add:
+
+```text
+LinkedIn verification
+
+Professional profile image
+
+OG image
+
+Author metadata
+
+Canonical URL
+```
+
+---
+
+# 15. Professional Email
+
+Current:
+
+```text
+manick@manick.com
+```
+
+Good if real.
+
+Even better:
+
+```text
+contact@manickrajendran.com
+
+advisory@manickrajendran.com
+```
+
+Looks more institutional.
+
+---
+
+# 16. Mobile Experience
+
+Tell Replit:
+
+```text
+Optimize for hospital executives.
+
+Most visitors will view from iPhone.
+
+Test:
+iPhone 15
+iPhone 15 Pro Max
+Samsung S24
+
+Every metric card must remain readable.
+
+No horizontal scrolling.
+```
+
+---
+
+# 17. Executive Authority Banner
+
+Under hero add:
+
+```text
+Former Deutsche Bank VP
+
+Group CEO
+
+BIS Chairman
+
+ISO Delegation Head
+
+HIMSS Board Member
+
+IIM Bangalore MBA
+```
+
+Small authority strip.
+
+Very powerful.
+
+---
+
+# 18. Domain & Email Setup
+
+Don't launch on:
+
+```text
+replit.dev
+```
+
+Use:
+
+```text
+manickrajendran.com
+```
+
+or
+
+```text
+manickrajendran.in
+```
+
+Professional email.
+
+SPF
+
+DKIM
+
+DMARC
+
+Configured.
+
+---
+
+# 19. Dark Mode
+
+Do NOT add it.
+
+Normally I recommend dark mode.
+
+For this audience:
+
+* Hospital Boards
+* Healthcare CEOs
+* Government Officials
+* Senior Executives
+
+Light mode is the correct choice.
+
+The site already follows that direction. 
+
+---
+
+# 20. Final Missing Piece
+
+Add a page:
+
+```text
+/legacy
+```
+
+Title:
+
+```text
+Legacy & Impact
+```
+
+Cover:
+
+```text
+35 Years
+
+7 Countries
+
+500K Doctors
+
+2100 Beds
+
+National Programs
+
+Global Standards
+```
+
+This page becomes the one people share internally when discussing whether to engage him.
+
+Of everything you've added so far, a dedicated **Legacy & Impact** page and a **Download Executive Profile PDF** will probably generate more business value than any animation, icon, or visual effect.

@@ -1,0 +1,606 @@
+ROLE
+
+You are a world-class design agency consisting of:
+
+* Senior UX Architect
+* Award-winning UI Designer
+* Brand Strategist
+* Information Architect
+* Healthcare Industry Designer
+* Frontend Engineer
+* Motion Designer
+
+Your task is to create a premium executive personal brand website for:
+
+MANICK RAJENDRAN
+
+A Healthcare Transformation Leader, Digital Health Strategist, Healthcare Executive, Mentor, International Consultant, and Standards Contributor with 30+ years of leadership experience.
+
+This is NOT a resume website.
+
+This is NOT a startup founder portfolio.
+
+This is NOT a SaaS landing page.
+
+This website should position him as:
+
+"The trusted advisor healthcare leaders call when transformation matters."
+
+==================================================
+
+DESIGN PHILOSOPHY
+
+The site should feel like a blend of:
+
+* Harvard Business School Executive Education
+* McKinsey & Company
+* Mayo Clinic Leadership
+* HIMSS
+* Stanford Medicine Innovation
+* World Economic Forum Speaker Profiles
+
+Keywords:
+
+Elegant
+Executive
+Timeless
+Credible
+Authoritative
+Sophisticated
+Institutional
+Global
+Premium
+Minimal
+
+==================================================
+
+VISUAL STYLE
+
+Theme:
+Premium Light Mode Only
+
+Background:
+#FAFBFC
+
+Primary:
+#0F4C81
+
+Secondary:
+#1F7A8C
+
+Accent:
+#2CB67D
+
+Text:
+#111827
+
+Muted:
+#6B7280
+
+Cards:
+#FFFFFF
+
+Borders:
+#E5E7EB
+
+Maximum Content Width:
+1440px
+
+Spacing:
+Generous whitespace
+
+Visual hierarchy:
+Very strong
+
+Typography:
+
+Headings:
+Playfair Display
+
+Subheadings:
+Inter SemiBold
+
+Body:
+Inter Regular
+
+Metrics:
+IBM Plex Sans
+
+==================================================
+
+SITE STRUCTURE
+
+HEADER
+
+Sticky Header
+
+Contains:
+
+Logo
+About
+Experience
+Expertise
+Projects
+Global Impact
+Mentorship
+Insights
+Contact
+
+CTA Button:
+
+Schedule Strategic Consultation
+
+Header becomes slightly elevated on scroll.
+
+No transparent header.
+
+==================================================
+
+SECTION 1
+
+HERO
+
+Full viewport height
+
+Large professional portrait
+
+Executive introduction
+
+Headline:
+
+Healthcare Transformation Leader
+
+Subheadline:
+
+30+ Years Building Healthcare Systems, Digital Health Strategies, Hospital Networks, and Global Innovation Initiatives.
+
+Supporting text:
+
+Helping healthcare organizations navigate transformation, interoperability, innovation, and sustainable growth.
+
+Primary CTA:
+Schedule Consultation
+
+Secondary CTA:
+Explore Experience
+
+Hero Metrics:
+
+30+ Years Experience
+
+7+ Countries
+
+500,000+ Doctors Impacted
+
+2100+ Hospital Beds Managed
+
+Global Healthcare Projects
+
+Animation:
+
+Portrait fades in
+
+Text slides upward
+
+Metrics count up
+
+==================================================
+
+SECTION 2
+
+EXECUTIVE SUMMARY
+
+Magazine-style layout.
+
+Narrative:
+
+Who he is.
+
+What he stands for.
+
+What makes his approach different.
+
+Why healthcare leaders trust him.
+
+Use elegant editorial layout.
+
+==================================================
+
+SECTION 3
+
+CAREER TIMELINE
+
+Interactive timeline.
+
+Show:
+
+Deutsche Bank
+
+MedAZ
+
+Medical Billing Company
+
+LifeLine Hospitals
+
+Velammal Hospitals
+
+Cardiac Advisory Company
+
+Healthcare Consulting
+
+Mentorship
+
+Timeline should reveal progressively.
+
+Each milestone opens detailed panel.
+
+==================================================
+
+SECTION 4
+
+GLOBAL IMPACT
+
+Interactive world map.
+
+Countries:
+
+India
+USA
+Sweden
+South Korea
+Tanzania
+Malawi
+
+Hover interactions.
+
+Country cards.
+
+Engagement highlights.
+
+Healthcare initiatives.
+
+Standards initiatives.
+
+Consulting engagements.
+
+==================================================
+
+SECTION 5
+
+AREAS OF EXPERTISE
+
+Premium expertise grid.
+
+Healthcare Strategy
+
+Hospital Operations
+
+Digital Health
+
+Telemedicine
+
+Healthcare Interoperability
+
+AI in Healthcare
+
+Healthcare Transformation
+
+Revenue Cycle Management
+
+Startup Mentorship
+
+Healthcare Standards
+
+Leadership Development
+
+Innovation Management
+
+Cards animate subtly.
+
+==================================================
+
+SECTION 6
+
+SIGNATURE ACHIEVEMENTS
+
+Large alternating showcase sections.
+
+Achievement
+
+Challenge
+
+Approach
+
+Outcome
+
+Visual storytelling format.
+
+Executive consulting style.
+
+==================================================
+
+SECTION 7
+
+THOUGHT LEADERSHIP
+
+Display:
+
+Articles
+
+Whitepapers
+
+Interviews
+
+Conference Talks
+
+Research Contributions
+
+Standards Participation
+
+Professional Publications
+
+Card-based layout.
+
+==================================================
+
+SECTION 8
+
+MENTORSHIP & EDUCATION
+
+Feature:
+
+Startup Mentorship
+
+Academic Engagements
+
+Visiting Faculty Roles
+
+Innovation Workshops
+
+Leadership Coaching
+
+Design Thinking
+
+Executive Training
+
+Include institution logos area.
+
+==================================================
+
+SECTION 9
+
+HEALTHCARE STANDARDS & POLICY
+
+Dedicated authority section.
+
+Show involvement with:
+
+BIS
+
+Healthcare interoperability
+
+Digital health standards
+
+Policy initiatives
+
+National healthcare transformation
+
+Make this look highly credible.
+
+==================================================
+
+SECTION 10
+
+TESTIMONIALS
+
+Large premium testimonial carousel.
+
+Executive style.
+
+No auto-play faster than 8 seconds.
+
+Manual navigation.
+
+Professional layout.
+
+==================================================
+
+SECTION 11
+
+PHOTO GALLERY
+
+Conference speaking
+
+Hospital visits
+
+International delegations
+
+Leadership meetings
+
+Mentoring sessions
+
+Large masonry gallery.
+
+Premium lightbox.
+
+==================================================
+
+SECTION 12
+
+FAQ
+
+Strategic consulting FAQ.
+
+Healthcare transformation FAQ.
+
+Mentorship FAQ.
+
+Speaking engagements FAQ.
+
+==================================================
+
+SECTION 13
+
+CONTACT
+
+Large executive contact section.
+
+Professional portrait.
+
+Email
+
+Phone
+
+LinkedIn
+
+Consultation form
+
+Calendar booking integration
+
+==================================================
+
+FOOTER
+
+Large institutional footer.
+
+Quick links
+
+Professional affiliations
+
+Contact
+
+Social links
+
+Copyright
+
+Professional disclaimer
+
+Back-to-top button
+
+==================================================
+
+MOTION DESIGN
+
+Allowed:
+
+Fade In
+
+Scroll Reveal
+
+Count Up
+
+Micro Hover
+
+Timeline Expansion
+
+Map Marker Pulse
+
+Image Reveal
+
+Text Reveal
+
+Parallax Depth under 5%
+
+Forbidden:
+
+Neon
+
+Particles
+
+3D Rotations
+
+Cyberpunk
+
+Glassmorphism
+
+Excessive Motion
+
+Heavy Animations
+
+Startup-style gimmicks
+
+==================================================
+
+MICRO INTERACTIONS
+
+Buttons
+
+Cards
+
+Timeline Nodes
+
+Map Markers
+
+Gallery Images
+
+Navigation Links
+
+All interactions must feel premium and restrained.
+
+==================================================
+
+MOBILE EXPERIENCE
+
+Mobile-first.
+
+Touch optimized.
+
+Perfect spacing.
+
+Sticky CTA.
+
+Accessible navigation.
+
+Performance optimized.
+
+==================================================
+
+ACCESSIBILITY
+
+WCAG AA compliant.
+
+Keyboard navigation.
+
+Proper semantic HTML.
+
+Screen reader friendly.
+
+Accessible color contrast.
+
+==================================================
+
+TECHNICAL REQUIREMENTS
+
+Next.js
+
+TypeScript
+
+TailwindCSS
+
+Framer Motion
+
+SEO optimized
+
+Schema.org structured data
+
+OpenGraph tags
+
+Lazy loading
+
+Image optimization
+
+Fast loading
+
+Production-ready
+
+==================================================
+
+FINAL GOAL
+
+The visitor should leave with the impression that:
+
+"This is not merely a consultant.
+
+This is a globally experienced healthcare strategist who has influenced healthcare systems, standards, hospitals, digital health initiatives, and leadership development across multiple countries."
+
+Every design decision must reinforce authority, trust, credibility, sophistication, and executive presence.

@@ -1,0 +1,325 @@
+Most people completely neglect favicon and Open Graph (OG) cards.
+
+For a website like this, they're disproportionately important because:
+
+* Hospital CEOs will share it in WhatsApp
+* Investors will paste it in email
+* Board members will send LinkedIn messages
+* Healthcare executives will open it from mobile
+
+The OG card becomes the **first impression** before they even visit the site.
+
+---
+
+# Favicon Strategy
+
+Do NOT use:
+
+```text
+MR
+inside a blue square
+```
+
+That looks generic.
+
+Instead:
+
+### Option 1 (Recommended)
+
+Use the existing logo style:
+
+```text
+White MR monogram
+inside deep navy square
+```
+
+Colors:
+
+```css
+Background: #0F4C81
+Letters: #FFFFFF
+```
+
+Minimal.
+
+Executive.
+
+Works at 16x16.
+
+---
+
+### Option 2 (Premium)
+
+Create a custom monogram:
+
+```text
+M
+R
+```
+
+interlocked like:
+
+```text
+M
+└R
+```
+
+Inspired by:
+
+* Harvard
+* Goldman Sachs
+* McKinsey partner profiles
+
+---
+
+# Apple Touch Icon
+
+For iPhone bookmarks:
+
+```text
+1024x1024
+
+Navy background
+
+MR monogram
+
+Small emerald accent line
+```
+
+Looks premium when saved.
+
+---
+
+# Open Graph Card
+
+This is where the real value is.
+
+Current website hero is already strong. 
+
+Build OG card based on that.
+
+---
+
+## OG Layout
+
+### Left Side
+
+Professional portrait
+
+Use uploaded photo.
+
+Crop:
+
+```text
+Head and shoulders
+```
+
+Not full body.
+
+---
+
+### Right Side
+
+Large typography.
+
+```text
+MANICK RAJENDRAN
+
+Healthcare Transformation Leader
+
+35+ Years
+
+7 Countries
+
+500K+ Doctors Impacted
+
+2100+ Hospital Beds Managed
+```
+
+---
+
+Bottom:
+
+```text
+Healthcare Strategy
+Digital Health
+Interoperability
+Hospital Leadership
+```
+
+---
+
+# Colors
+
+Background:
+
+```css
+#FAFBFC
+```
+
+Typography:
+
+```css
+#111827
+```
+
+Accent:
+
+```css
+#0F4C81
+```
+
+Success:
+
+```css
+#2CB67D
+```
+
+---
+
+# Dimensions
+
+```text
+1200 x 630
+```
+
+Required for:
+
+* LinkedIn
+* WhatsApp
+* X
+* Facebook
+
+---
+
+# Replit Prompt
+
+```text
+Create a premium Open Graph image generator for the website.
+
+Requirements:
+
+Generate a 1200x630 Open Graph card.
+
+Use the uploaded executive portrait.
+
+Layout:
+
+Left:
+Professional portrait
+
+Right:
+Name:
+MANICK RAJENDRAN
+
+Title:
+Healthcare Transformation Leader
+
+Executive Metrics:
+
+35+ Years Experience
+
+7 Countries
+
+500K+ Doctors Impacted
+
+2100+ Hospital Beds Managed
+
+Bottom Section:
+
+Healthcare Strategy
+
+Digital Health
+
+Healthcare Interoperability
+
+Hospital Leadership
+
+Design Style:
+
+Harvard Executive Education
+
+McKinsey
+
+Mayo Clinic
+
+World Economic Forum
+
+No startup aesthetics.
+
+No gradients.
+
+No neon.
+
+No glassmorphism.
+
+Use generous whitespace.
+
+Use elegant typography.
+
+Use Playfair Display for headings.
+
+Use Inter for supporting text.
+
+Generate:
+
+/public/og-image.png
+
+Generate metadata:
+
+title:
+Manick Rajendran | Healthcare Transformation Leader
+
+description:
+35+ years leading healthcare transformation, digital health innovation, hospital operations, interoperability standards, and strategic healthcare initiatives across seven countries.
+
+twitter:card = summary_large_image
+
+og:type = profile
+
+og:image = /og-image.png
+```
+
+---
+
+# Extra Premium Touch
+
+Tell Replit:
+
+```text
+Generate dynamic OG images for each major section.
+
+Examples:
+
+/og/about.png
+
+/og/expertise.png
+
+/og/impact.png
+
+/og/standards.png
+
+/og/mentorship.png
+```
+
+When someone shares:
+
+```text
+manickrajendran.com/standards
+```
+
+they see:
+
+```text
+Boards, Standards & National Initiatives
+
+BIS Chairman
+
+HIMSS Board Member
+
+ISO Delegation Head
+```
+
+instead of the generic homepage card.
+
+That is the same approach used by top consulting firms, executive profiles, and high-end thought leadership websites.

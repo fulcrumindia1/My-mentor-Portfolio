@@ -1,0 +1,46 @@
+{
+  "short_name": "Manick Rajendran",
+  "name": "Manick Rajendran | Enterprise Transformation Strategist",
+  "description": "35+ years leading enterprise transformation, institution building, digital health innovation, and global standards leadership across seven countries.",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#FAFBFC",
+  "theme_color": "#0F4C81",
+  "display": "standalone",
+  "orientation": "any",
+  "scope": "/",
+  "categories": [
+    "business",
+    "productivity",
+    "leadership"
+  ],
+  "shortcuts": [
+    {
+      "name": "About Executive",
+      "short_name": "About",
+      "url": "/#about"
+    },
+    {
+      "name": "Institutional Leadership",
+      "short_name": "Institutions",
+      "url": "/#institutions"
+    },
+    {
+      "name": "Standards Leadership",
+      "short_name": "Standards",
+      "url": "/#standards"
+    },
+    {
+      "name": "Executive Engagement",
+      "short_name": "Contact",
+      "url": "/#contact"
+    }
+  ]
+}
